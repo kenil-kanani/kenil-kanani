@@ -39,7 +39,7 @@ I’m motivated by curiosity and a love for continuous improvement. Every projec
 I’m always open to new ideas, collaborations, and tech conversations. Reach out if you’d like to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenill)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/kenil__k)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/kenil__k)
 
 ---
 
