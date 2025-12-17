@@ -1,48 +1,53 @@
-# Hi, I’m Kenil 👋
+# Hi, I’m Kenil Kanani 👋
 
-### Curious about code, passionate about design, and focused on crafting intelligent software.
-
----
-
-## 🌌 Kenil’s Corner
-
-> "Bringing ideas to life through code, one project at a time."
-
-Welcome to my GitHub profile – a place where creative concepts meet practical code. Here, you’ll find projects that solve real problems, automate tasks, and add a little flair to the everyday.
+### Full Stack Engineer | Builder of Hezalt - Auto-Fill Job Applications in 1-Click
 
 ---
 
-## 🛠 Skills & Specialties
-Think of my tech stack as my toolkit. Each tool has a purpose and a place in my work:
+## 🚀 About Me
 
-- **Programming Languages**: JavaScript, Java, C
-- **Frontend**: React, Next, TailwindCSS, HTML/CSS
-- **Backend**: Node.js, Express, MongoDB, MySQL
-- **Cloud & Serverless**: AWS Lambda, API Integrations
+I’m a curious and driven Full Stack Engineer passionate about building user-centric products that solve real-world problems. With hands-on experience at multiple organizations and creator of [Hezalt](https://hezalt.com), I specialize in combining AI, automation, and intuitive UX to reduce friction and create seamless digital experiences.
 
 ---
 
-## ⚡ Current Project
+## 🛠️ Tech Stack
 
-### **B49 - Before nine** 
-Your daily financial report, automated to perfection. B49 delivers key insights before the market opens, using AWS Lambda for data gathering and Next.js for a rich frontend experience.
+- **Frontend:** React.js, Next.js, Tailwind CSS, JSX, HTML, CSS
+- **Backend:** Node.js, Express, MongoDB, PostgreSQL, Firebase
+- **Cloud & Serverless:** AWS Lambda, Render
+- **Tools & Integrations:** Razorpay, WhatsApp Cloud API, Chrome Extensions, Algolia
+
+---
+
+## 🔥 Featured Projects
+
+### [Hezalt - Auto-Fill Job Applications in 1-Click](https://hezalt.com)
+- Developed a Chrome Extension that intelligently detects and auto-fills job application forms using backend LLM services.
+- Streamlined job hunting by combining AI-powered smart answers with seamless UX.
+
+### [B49 - Before Nine](https://b49.io)
+- Built a serverless app automating pre-market financial reports with AWS Lambda and Next.js.
+- Integrated payment processing (Razorpay) and spam-free delivery via WhatsApp Cloud API.
+- Currently enhancing personalized user reports with intelligent automation.
 
 ---
 
 ## 🎯 What Drives Me
-I’m motivated by curiosity and a love for continuous improvement. Every project teaches me something new and sparks fresh ideas.
+
+I’m passionate about technology, product innovation, and problem solving. I love turning complex challenges into simple, impactful solutions that empower users.
 
 ---
 
-## 💬 Let's Connect!
+## 🤝 Let’s Connect
 
-I’m always open to new ideas, collaborations, and tech conversations. Reach out if you’d like to connect!
+I’m open to collaborations, tech discussions, and new opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenill)  
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/kenil__k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.kenill.me/linkedin)    
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://kenill.me/x)  
+[Portfolio](https://kenill.me)
 
 ---
 
-> "Code is like poetry; there’s beauty in simplicity and power in structure."
+> "Code is poetry — elegant, powerful, and meaningful."
 
-Thanks for visiting, and happy coding! 😊
+Thanks for stopping by! Happy coding! 😊
